@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-prototype
+AI Tic Tac Toe Player
